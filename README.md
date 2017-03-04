@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/apowers313/sauce-test.svg?branch=master)](https://travis-ci.org/apowers313/sauce-test)
+
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/apowers313.svg)](https://saucelabs.com/u/apowers313)
+
 Setup:
 
 1. Edit **package.json**, set `name`, `description`, `publish`, `repository.url`, `bugs.url`, `keywords`, and `license`
